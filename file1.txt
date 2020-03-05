@@ -1,0 +1,17 @@
+SPECIFICATIONS OF THIS PROJECTS.
+
+
+    Overview.
+
+This allow people to register accouding to
+how they will be prompted to do.
+
+
+     Goal.
+To keep track of people i met before.
+
+
+     System activities.
+ >Register people.
+ >Delete pleople.
+ >Send E mail to people.
